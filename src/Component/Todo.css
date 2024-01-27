@@ -61,3 +61,43 @@ button:hover{
 .check-icon:hover{
     color: #488907;
 }
+
+
+@media (max-width: 575px) {
+    .todo h1{
+        font-size: 50px;
+    }
+    .container{
+        width: 100%;
+    }
+    button:hover{
+        background:#488907;
+    }
+    .todolist-item h3{
+        color: #488907;
+        font-size: 20px;
+    }
+    .todolist-item p{
+        color: #ccc;
+        font: 12px;
+    }
+    .icon{
+        color: #fff;
+        font-size: 30px;
+        margin-left: 550px;
+    }
+    .check-icon{
+        color: #fff;
+        font-size: 30px;
+    }
+    .icon:hover{
+        color: #f00;
+    }
+    .check-icon:hover{
+        color: #488907;
+    }
+    
+    
+
+    
+  }
