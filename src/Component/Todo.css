@@ -80,15 +80,16 @@ button:hover{
     .todolist-item p{
         color: #ccc;
         font: 12px;
+        margin: 10px 0px;
     }
     .icon{
         color: #fff;
-        font-size: 30px;
-        margin-left: 550px;
+        font-size: 40px;
+        margin-left: 350px;
     }
     .check-icon{
         color: #fff;
-        font-size: 30px;
+        font-size: 40px;
     }
     .icon:hover{
         color: #f00;
