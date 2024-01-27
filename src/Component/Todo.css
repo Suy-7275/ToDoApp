@@ -85,7 +85,7 @@ button:hover{
     .icon{
         color: #fff;
         font-size: 40px;
-        margin-left: 350px;
+        margin-left: 150px;
     }
     .check-icon{
         color: #fff;
@@ -96,6 +96,9 @@ button:hover{
     }
     .check-icon:hover{
         color: #488907;
+    }
+    .todolist-item{
+        display: flex;
     }
     
     
