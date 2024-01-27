@@ -1,0 +1,63 @@
+body{
+    background-color: #000;
+}
+.todo h1{
+    color: #fff;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    background-color: #222;
+    width: 60%;
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+} 
+.container form :placeholder-shown{
+    padding: 0px 50px;
+    font-size: 15px;
+}
+.container hr{
+    color: #fff;
+
+}
+button{
+    color: #fff;
+    background-color: #222;
+    font-size: 20px;
+    padding: 10px 30px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+button:hover{
+    background:#488907;
+}
+.todo-list{
+    background-color: #333;
+    margin-bottom: 30px;
+}
+
+.todolist-item h3{
+    color: #488907;
+    font-size: 25px;
+}
+.todolist-item p{
+    color: #ccc;
+    font: 16px;
+}
+.icon{
+    color: #fff;
+    font-size: 60px;
+    margin-left: 550px;
+}
+.check-icon{
+    color: #fff;
+    font-size: 50px;
+}
+.icon:hover{
+    color: #f00;
+}
+.check-icon:hover{
+    color: #488907;
+}
